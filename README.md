@@ -1,8 +1,13 @@
 NAME : SHAKTHIVEL G
+
 COMPANY: CODETECH IT SOLUTION
+
 ID:  CT4WD2929
+
 DOMAIN: WEB DEVELOPMENT
+
 DURATION:UNE 25th,2024 to JULY 25th, 2024.
+
 MENTOR: Santhosh Kumar
 
 Overview
@@ -34,3 +39,7 @@ Task Completion: Allow users to mark tasks as completed.
 Data Persistence: Store tasks locally or on a server for persistent data across sessions.
 Conclusion
 By following these steps and documenting your project thoroughly, you have created a user-friendly to-do list web app using CSS, HTML, and JavaScript. This documentation provides a clear overview of your project's structure, functionality, and potential for future enhancements.
+
+SCREEN SHOT OF MY OUTPUT
+
+![Screenshot (128)](https://github.com/user-attachments/assets/04317442-4687-4197-939b-26929850eb58)
